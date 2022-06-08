@@ -30,7 +30,7 @@ commented HTML and CSS for readability and clarity
 
 
 
-## Link to deployed Site file:///Users/jasonnestor/Horiseon-Website/index.html
+## Link to deployed Site  https://jay3172.github.io/Horiseon-Website/
 
 
 ## Screenshot of deployed app 
